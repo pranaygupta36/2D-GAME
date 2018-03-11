@@ -1,0 +1,36 @@
+Name - Pranay Gupta 
+Roll No. - 20161088
+GRAPHICS ASSIGNMENT1 
+
+Controls
+
+jump - up arrow_key
+down - down arrow_key
+left - left arrow_key 
+right - right arrow_key
+
+paning up - W key
+paning down - S key
+paning left - A key
+paning right - D key
+
+zoom in - mouse scroll up
+zoom out - mouse scroll down
+
+Rules
+
+1) There are 30 normal enemies
+2) There are 10 planked enemies
+3) You have to kill all enemies by touching them with your player ball the planks reflect the player ball if touched
+4) There is a trampoline to jump higher than usual
+5) A magnet randomly appears on the top left or top right corner and pulls the player ball towards itself. 
+6) There is a porcupine which keeps and will take one life if you touch it
+7) There is also a pond which slows down your speed of jump if you take the player ball inside it.
+8) You win by killing all enemies.
+9) You lose when your all 3 lives are over.
+
+Scoring
+
+1) You gets points propotional to the ratio of the radius of the enemy ball you destroy
+2) 50 points are deduced and one life is taken away if you touch the porcupine.
+3) The score, the lives left and the no of enemies left are displayed in the title bar
